@@ -1,7 +1,7 @@
 <h1 align="center"> Hola, soy Max! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  
 <!-- Profile Picture -->
-<img align="left" height="110" style="border-radius: 10px; margin-right: 10px;" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"/>
+<img align="left" height="100"  src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"/>
 
 <!-- Description -->
 ```diff
